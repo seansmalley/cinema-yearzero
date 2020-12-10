@@ -6,12 +6,12 @@ This filmography will be organized by primary country of production.
 
 
 **Germany**
-The Murders are Among Us (Wolfgang Staudte, 1946)
+- The Murders are Among Us (Wolfgang Staudte, 1946)
+- Phoenix (Christian Petzold, 2014)
 
 **Italy**
-Germany Year Zero (Roberto Rossellini, 1948)
-Phoenix (Christian Petzold, 2014)
-The Skin (Liliana Cavani, 1981)
+- Germany Year Zero (Roberto Rossellini, 1948)
+- The Skin (Liliana Cavani, 1981)
 
 **Japan**
 
@@ -22,7 +22,7 @@ The Skin (Liliana Cavani, 1981)
 **Soviet Union**
 
 **United Kingdom**
-A Diary for Timothy (Humphrey Jennings, 1945)
+- A Diary for Timothy (Humphrey Jennings, 1945)
 
 **United States**
-Act of Violence (Fred Zinnemann, 1947)
+- Act of Violence (Fred Zinnemann, 1947)
